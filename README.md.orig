@@ -3,8 +3,8 @@ Mayank Batra
 
 "First Change"
 
-
+<<<<<<< HEAD
 "This is the a change on testbranch2".
-
+=======
 "Test branch Change"
-
+>>>>>>> master
